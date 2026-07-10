@@ -1,0 +1,67 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.cache/
+.ipynb_checkpoints/
+
+# Virtual environments and local environment variables
+.venv/
+venv/
+env/
+ENV/
+.python-version
+.env
+.env.*
+!.env.example
+
+# Python packages and native extension build artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+*.so
+*.pyd
+*.dll
+.ninja_deps
+.ninja_log
+
+# Test and coverage reports
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+junit.xml
+
+# Training outputs, logs, and visualizations
+/experiments/
+/runs/
+/wandb/
+/logs/
+/vis/tsne/
+*.log
+events.out.tfevents.*
+
+# Datasets and checkpoints
+/data/*
+!/data/.gitkeep
+/checkpoint/*
+!/checkpoint/.gitkeep
+*.pth
+*.pt
+*.ckpt
+*.onnx
+
+# IDE and OS metadata
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+Desktop.ini
+
