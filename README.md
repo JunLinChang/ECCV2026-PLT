@@ -1,6 +1,6 @@
 # Point Ladder Tuning
 
-<!-- [![arXiv](https://img.shields.io/badge/arXiv-2501.01234-b31b1b.svg)](https://arxiv.org/abs/xxxx.xxxxx) -->
+[![arXiv](https://img.shields.io/badge/arXiv-2607.19171-b31b1b.svg)](https://arxiv.org/abs/2607.19171)
 [![ECCV 2026](https://img.shields.io/badge/ECCV-2026-6f42c1.svg)](https://eccv.ecva.net/)
 <!-- [![Paper](https://img.shields.io/badge/Paper-PDF-blue.svg)](paper/main.pdf)
 [![Supplementary](https://img.shields.io/badge/Supplementary-PDF-green.svg)](paper/supplement.pdf) -->
