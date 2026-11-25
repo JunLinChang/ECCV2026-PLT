@@ -2,6 +2,9 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2607.19171-b31b1b.svg)](https://arxiv.org/abs/2607.19171)
 [![ECCV 2026](https://img.shields.io/badge/ECCV-2026-6f42c1.svg)](https://eccv.ecva.net/)
+[![Papers with Code: ScanObjectNN OBJ_BG #2 (without voting)](https://img.shields.io/badge/ScanObjectNN%20OBJ__BG-%232-007ec6.svg)](https://paperswithcode.co/benchmark/scanobjectnn?task=3d-understanding&eval=38529)
+[![Papers with Code: ModelNet40 #3 (with voting)](https://img.shields.io/badge/ModelNet40-%233-007ec6.svg)](https://paperswithcode.co/benchmark/modelnet40?task=3d-understanding&eval=38530)
+[![Papers with Code: ModelNet40 5-way 20-shot #3 (without voting)](https://img.shields.io/badge/ModelNet40%205--way%2020--shot-%233-007ec6.svg)](https://paperswithcode.co/benchmark/modelnet40-5-way-20-shot?task=3d-understanding&eval=45508)
 <!-- [![Paper](https://img.shields.io/badge/Paper-PDF-blue.svg)](paper/main.pdf)
 [![Supplementary](https://img.shields.io/badge/Supplementary-PDF-green.svg)](paper/supplement.pdf) -->
 
